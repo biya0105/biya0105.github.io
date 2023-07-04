@@ -3,7 +3,7 @@ layout: post
 title:  "测试"
 author: 王
 categories: [ 时间序列 ]
-image: assets/images/home.jpg
+image: assets/images/1.jpg
 ---
 
 测试测试
