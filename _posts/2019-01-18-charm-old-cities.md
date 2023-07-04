@@ -1,17 +1,16 @@
 ---
 layout: post
-title:  "Could we reinvent the charm of old cities"
-author: jane
-categories: [ Jekyll, tutorial ]
+title:  "测试"
+author: 王
+categories: [ 时间序列 ]
 image: assets/images/home.jpg
-tags: [sticky]
 ---
 
-Bucharest’s history alternated periods of development and decline from the early settlements in antiquity until its consolidation as the national capital of Romania late in the 19th century. First mentioned as the “Citadel of București” in 1459, it became the residence of the famous Wallachian prince Vlad III the Impaler.
+测试测试
 
-#### Early 18th century woodcut of Bucharest
+#### 测试
 
-The Ottomans appointed Greek administrators (Phanariotes) to run the town from the 18th century. A short-lived revolt initiated by Tudor Vladimirescu in 1821 led to the end of the rule of Constantinople Greeks in Bucharest.[19]
+测试
 
 The Old Princely Court (Curtea Veche) was erected by Mircea Ciobanul in the mid-16th century. Under subsequent rulers, Bucharest was established as the summer residence of the royal court. During the years to come, it competed with Târgoviște on the status of capital city after an increase in the importance of southern Muntenia brought about by the demands of the suzerain power – the Ottoman Empire.
 
