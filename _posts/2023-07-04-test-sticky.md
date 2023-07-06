@@ -3,7 +3,6 @@ layout: post
 title:  "测试置顶"
 author: wang
 categories: [ test ]
-image: assets/images/4.jpg
 tags: [sticky]
 ---
 
