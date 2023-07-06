@@ -2,7 +2,7 @@
 layout: post
 title:  "测试"
 author: 王
-categories: [ 1 ]
+categories: [ test ]
 image: assets/images/1.jpg
 ---
 
