@@ -2,7 +2,7 @@
 layout: post
 title:  "测试"
 author: 王
-categories: [ 时间序列 ]
+categories: [ 1 ]
 image: assets/images/1.jpg
 ---
 
