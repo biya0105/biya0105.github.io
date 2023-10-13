@@ -4,7 +4,6 @@ title: "Multimodal Recommendation"
 author: ChenWuhan
 categories: [ 推荐系统 ]
 image: assets/images/18.jpg
-tags: [sticky]
 ---
 #    Section1:Traditional multimodal recommendations
 **Multimodal recommendation**:use  various  types of data(text, audio, video)  to give users personalized advice
