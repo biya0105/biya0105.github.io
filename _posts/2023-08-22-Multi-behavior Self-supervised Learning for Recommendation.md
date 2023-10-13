@@ -17,4 +17,4 @@
 
 对于第二个问题，本文提出了混合梯度操作方法，对梯度的大小和方向进行混合操作。对于具有较小梯度大小的辅助行为梯度以及和目标行为具有较小冲突方向的辅助梯度不进行处理，防止过拟合，对于剩余情况的辅助梯度，先使用平面投影方法，将辅助行为梯度投影到目标行为的法向量，然后再利用松弛因子来控制辅助行为与目标行为梯度之间的接近程度。
 
-[PPT](https://github.com/biya0105/biya0105.github.io/blob/main/assets/ppt/2023-08-22-Multi-behavior%20Self-supervised%20Learning%20for%20Recommendation.pptx)
+[PPT](https://github.com/dmml-cqu/dmml-cqu.github.io/blob/main/assets/ppt/2023-08-22-Multi-behavior%20Self-supervised%20Learning%20for%20Recommendation.pptx)
