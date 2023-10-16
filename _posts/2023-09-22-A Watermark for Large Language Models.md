@@ -1,7 +1,7 @@
 ---
     layout: post
     title: "A Watermark for Large Language Models"
-    a: Zongwei Wang
+    author: Zongwei Wang
     categories: [NLP]
     image: assets/images/zongwei20231016.jpg
 ---
