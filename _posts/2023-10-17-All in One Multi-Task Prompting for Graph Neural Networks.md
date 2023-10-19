@@ -22,5 +22,5 @@
 
 
 
-其余信息请见PPT:  
+其余信息请见PPT:  assets/ppt/20231017-All in One Multi-Task Prompting for Graph Neural Networks_PPT.pdf
 
