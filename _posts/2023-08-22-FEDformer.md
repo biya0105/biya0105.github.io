@@ -28,7 +28,7 @@ FEDformer (Frequency Enhanced DecomposedTransformer )设计了两个注意模块
 
 分解模块增加了FEB(绿色，相当于self-attention机制)和FEA(红色，相当于cross attention)在频域进行表示学习
 
-![](https://raw.githubusercontent.com/biya0105/biya0105.github.io/main/assets/images/FEDformer2.png)
+![](https://raw.githubusercontent.com/dmml-cqu/dmml-cqu.github.io/main/assets/images/FEDformer2.png)
 
 ### contributions
 

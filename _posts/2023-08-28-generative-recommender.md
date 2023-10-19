@@ -3,7 +3,8 @@ layout: post
 title: "Generative Recommendation: Towards Next-generation Recommender Paradigm"
 author: Gan Dingyi
 categories: [ 推荐系统 ]
-image: assets/images/甘定怡828封面.png
+image: assets/images/甘定怡828封面.jpeg
+tags: [sticky]
 ---
 # Generative Recommendation: Towards Next-generation Recommender Paradigm
 
