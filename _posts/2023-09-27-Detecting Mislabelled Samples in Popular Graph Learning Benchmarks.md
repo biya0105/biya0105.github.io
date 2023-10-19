@@ -2,7 +2,7 @@
     layout: post
     title: "GraphCleaner: Detecting Mislabelled Samples in Popular Graph Learning Benchmarks"
     author: Hao Ma
-    categories: [Detectino]
+    categories: [Detection]
     image: assets/images/mahao0927.jpg
 ---
 
