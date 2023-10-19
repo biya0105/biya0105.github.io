@@ -1,4 +1,3 @@
-```
 ---
     layout: post
     title: "Cascading Residual Graph Convolutional Network for Multi-Behavior Recommendation"
@@ -6,7 +5,6 @@
     categories: [推荐系统]
     image: assets/images/CRGCN.png
 ---
-```
 
 # 主要问题
 
