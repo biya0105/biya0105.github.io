@@ -13,4 +13,4 @@
 - GRAPHCLEANER结合了两种新颖的思想：1) 合成误标数据集生成，旨在生成逼真的误标；2) 考虑邻域的误标检测，其中在标签和基本分类器预测中都利用了邻域依赖关系.
 
 
-[PPT](20230927-马浩-Detecting%20Mislabelled%20Samples%20in%20Popular%20Graph%20Learning%20Benchmarks.pptx)
+[PPT](20230927-Detecting%20Mislabelled%20Samples%20in%20Popular%20Graph%20Learning%20Benchmarks.pptx)
