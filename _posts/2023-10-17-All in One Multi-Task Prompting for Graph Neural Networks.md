@@ -1,7 +1,7 @@
 ---
   layout: post
   title: "All in One Multi-Task Prompting for Graph Neural Networks"
-  author: No One
+  author: Nobody
   categories: [ graph neural network, prompt learning ]
   image: assets/images/AllinOne.jpg
   tags: [tags]
