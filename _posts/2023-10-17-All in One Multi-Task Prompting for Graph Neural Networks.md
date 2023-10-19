@@ -22,5 +22,5 @@
 
 
 
-其余信息请见PPT:  https://github.com/DMML-CQU/DMML-CQU.github.io/blob/main/assets/ppt/20231017-All%20in%20One%20Multi-Task%20Prompting%20for%20Graph%20Neural%20Networks_PPT.pdf
+其余信息请见PPT:[PPT](https://github.com/DMML-CQU/DMML-CQU.github.io/blob/main/assets/ppt/20231017-All%20in%20One%20Multi-Task%20Prompting%20for%20Graph%20Neural%20Networks_PPT.pdf)
 
